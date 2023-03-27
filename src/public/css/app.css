@@ -1,0 +1,13 @@
+.h1 {
+  color: red;
+  color: blue;
+  color: yellow;
+}
+.card-course-item{
+  margin-top: 15px;
+}
+.user-avatar{
+  width: 60%;
+  height: 40px;
+  border-radius: 50%;
+}
